@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c147fb73-a7a8-49c6-a707-1b95a7d5f0ce">
+  <producedTypes>
+    <objectType typeId="28f742bc-d808-4c79-bd6c-c3283f414cb1" valueTypeId="6c4f8952-5d5c-4961-83af-c2efbc7b46a9"/>
+  </producedTypes>
+  <name>прототип_РекурсивныйВыводОтчетаСПроизвольнымиГруппировками</name>
+  <synonym>
+    <key>ru</key>
+    <value>Рекурсивный вывод отчета с произвольными группировками</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="2f47f432-637c-4b51-87c0-232238a568de"/>
+  <defaultForm>ExternalReport.прототип_РекурсивныйВыводОтчетаСПроизвольнымиГруппировками.Form.ФормаОтчета</defaultForm>
+  <forms uuid="25065ed6-7bbc-4353-a82d-f83a8662ae15">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="aad8a13d-fe83-4401-83b4-0fdc2de70dfa">
+    <name>ФормаРасшифровки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма расшифровки</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="a34f9913-b903-4c4d-acde-5d76c6f9314b">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
+  <templates uuid="8b826cbb-6bf0-4b9a-835a-0db18f0eda36">
+    <name>МакетРасшифровки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет расшифровки</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalReport>
